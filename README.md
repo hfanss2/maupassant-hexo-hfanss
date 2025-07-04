@@ -22,7 +22,11 @@
 ## 本优化版
 > github地址：
 >
-> [https://github.com/iyohei/maupassant-hexo-hfanss](https://github.com/iyohei/maupassant-hexo-hfanss)
+> <https://github.com/hfanss2/maupassant-hexo-hfanss>
+
+> gitee地址：
+>
+> <https://gitee.com/iyohei/hfanss>
 
 > 相关配置介绍：
 >
@@ -232,7 +236,7 @@ version: 0.1.0
 ---
 # 使用方法
 ## 下载主题    
-> [https://github.com/iyohei/maupassant-hexo-hfanss](https://github.com/iyohei/maupassant-hexo-hfanss)
+> [https://github.com/hfanss2/maupassant-hexo-hfanss](https://github.com/hfanss2/maupassant-hexo-hfanss)
 如下载不下来可从备份地址下载：[点我](https://gitee.com/iyohei/hfanss)
 
 # 安装插件    
